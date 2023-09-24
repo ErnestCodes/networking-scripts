@@ -1,0 +1,38 @@
+SSID: My Home 5GHz
+Password: 75300453
+SSID: My Home 2.4GHz
+Password: 75300453
+SSID: Galaxy A104C42
+Password: apfr0117
+SSID: iPhone
+Password: emeksthecreator
+SSID: MTNHyNetflex 5.0Ghz
+Password: 75300453
+SSID: Sleek's iPhone
+Password: None
+SSID: iPhone X
+Password: emeksthecreator.dev.live
+SSID: Sm4GB940-015C5D
+Password: FH5CRM5N
+SSID: Galaxy M110907
+Password: izuchukwu123$$
+SSID: AndroidAPB3D8
+Password: uawa7577
+SSID: Iphone
+Password: emeksthecreator
+SSID: iVex
+Password: J2vexedt
+SSID: emeksthecreator
+Password: emmy$$thecreator
+SSID: Nzube
+Password: dm7xp474ouaxu
+SSID: HP's iPhone
+Password: None
+SSID: Galaxy A51AF1E
+Password: foqb8746
+SSID: Ernest.eth
+Password: emeksthecreator.dev.live
+SSID: AndroidAP4C42
+Password: ccrx3289
+SSID: 127.0.0.1
+Password: emmy$$thecreator
